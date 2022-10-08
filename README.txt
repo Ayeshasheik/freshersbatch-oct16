@@ -12,6 +12,9 @@ adding some more commits
 >>>>>>> css-assignments
 
 js assignments
+<<<<<<< HEAD
 
+=======
+>>>>>>> js-assignments
 Thanks You,
 Ayesha Sheik
