@@ -15,6 +15,6 @@ js assignments
 <<<<<<< HEAD
 
 =======
->>>>>>> js-assignments
+>>>>>>>    js-assignments
 Thanks You,
 Ayesha Sheik
