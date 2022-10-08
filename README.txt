@@ -10,5 +10,7 @@ adding some more and more commits
 adding some more commits
 
 >>>>>>> css-assignments
+
+js assignments
 Thanks You,
 Ayesha Sheik
